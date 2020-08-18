@@ -69,6 +69,7 @@ class _HomePageState extends State<HomePage> {
             )
           ],
         ),
+        backgroundColor: Colors.green[50],
         body: SingleChildScrollView(
           padding: EdgeInsets.only(left: 10.0, right: 10.0),
           child: Form(
